@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Hand_Cricket",
-    "slug": "Hand_Cricket",
+    "slug": "hand-cricket",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.midul97.handcricket"
     },
     "web": {
       "favicon": "./assets/favicon.png"
